@@ -16,30 +16,111 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `2`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The purpose of this survey is to understand the priorities and preferences of Canadian voters regarding key political issues and leadership qualities. 
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target Population: Canadian citizens who are eligible to vote in the upcoming federal election.
+
+Sampling Frame: A comprehensive list of eligible voters across all provinces and territories, including various demographics such as age, gender, income level, and education.
+
+Sampling Units: Individual eligible voters.
+
+Sampling Strategy: Stratified random sampling to ensure representation from all key demographic groups and regions across Canada. This will help us gather diverse and comprehensive feedback from a wide range of voters.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. What is your age group?
+ 18-24
+ 25-34
+ 35-44
+ 45-54
+ 55-64
+ 65+
+
+2. What is your highest level of education?
+ Some high school
+ High school diploma
+ Some college/university
+ College diploma
+ Bachelor's degree
+ Graduate degree
+ Prefer not to say
+
+3. How likely are you to vote in the upcoming federal election?
+ Very likely
+ Likely
+ Neutral
+ Unlikely
+ Very unlikely
+
+4. What are the top three issues that will influence your vote in the upcoming federal election?
+ Economy and Jobs
+ Healthcare
+ Education
+ Environment and Climate Change
+ Immigration
+ National Security
+ Social Services
+ Housing
+ Indigenous Rights
+ Other (please specify)
+
+5. How satisfied are you with our party's handling of the  - Economy?
+Very satisfied
+ Satisfied
+ Neutral
+ Dissatisfied
+ Very dissatisfied
+
+ - Job
+ Very satisfied
+ Satisfied
+ Neutral
+ Dissatisfied
+ Very dissatisfied
+
+ - Health care
+ Very satisfied
+ Satisfied
+ Neutral
+ Dissatisfied
+ Very dissatisfied
+
+6. What leadership qualities are most important to you in a Prime Minister?
+ Integrity
+ Communication Skills
+ Experience
+ Vision and Planning
+ Empathy and Compassion
+ Decision-Making Ability
+ Crisis Management
+ Other (please specify):
+
+7. How would you rate our party leader on integrity, qualities?
+ Excellent
+ Good
+ Fair
+ Poor
+ Very Poor
+
+8. What could our party do to better address your concerns and earn your vote?
+(Text box)
+
+9. Which political party do you currently support?
+Party A (Our party)
+ Party B (Opposing party)
+ Other (please specify)
+ Undecided
+
+10. Do you have any additional comments or suggestions for our party's campaign?
+(Text box)
 ```
 
 ## Rubric
