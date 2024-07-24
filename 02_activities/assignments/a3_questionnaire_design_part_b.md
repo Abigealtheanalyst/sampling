@@ -4,19 +4,40 @@
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
     ```
-    write your answer here...
-    ```
+The sampling frame consists of a comprehensive list of eligible voters across Canada, which is an excellent starting point to ensure that the survey reaches a diverse group of respondents. Using a stratified random sampling strategy is an effective approach to ensure representation from all key demographic groups and regions across Canada.
+
+Given the stratified random sampling strategy, the sample is likely to be representative of the target population, which is Canadian citizens eligible to vote in the upcoming federal election. By stratifying the sample according to key demographic variables such as age, gender, income level, and education, you increase the likelihood that the sample accurately reflects the overall population's distribution.
+
+Response Bias: The survey might still be subject to response bias if certain groups are less likely to respond to the survey than others. For example, younger voters or those with lower levels of education might have lower response rates, which could skew the results
+
+Non-Response: If there is a significant non-response rate, it might impact the representativeness of the sample. Ensuring high response rates across all strata is crucial for maintaining the quality of the sample
+
+Sampling Errors: Despite stratified sampling, there is always a possibility of sampling errors, especially if the strata are not perfectly defined or if there are inaccuracies in the sampling frame.
+
+Overall, the quality of your sample is high, and the sampling strategy employed is sound, aimed at ensuring representativeness
+
+    ```  
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
     ```
-    write your answer here...
+The purpose of the survey is to understand the priorities and preferences of Canadian voters regarding key political issues and leadership qualities.
+My Survey Design
+Target Population: Canadian citizens who are eligible to vote in the upcoming federal election.
+Sampling Frame: A comprehensive list of el igible voters across all provinces and territories, including various demographics such as age, gender, income level, and education.
+Sampling Units: Individual eligible voters.
+Sampling Strategy: Stratified random sampling to ensure representation from all key demographic groups and regions across Canada. This will help us gather diverse and comprehensive feedback from a wide range of voters.
+
+Here's my pevious survey: [Here](https://github.com/Abigealtheanalyst/sampling/blob/e01aa04daf2a70966a33e4f8a140f6240b7d3c81/02_activities/assignments/a2_questionnaire_design_part_a.md)
+
+Based on the class content, I would not like to make a change to my survey. My previous survey was goo
+
     ```
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
-    write your answer here...
+While an observational study could provide valuable insights into voter behavior and priorities, it would likely not be as precise or comprehensive as a well-designed survey. Surveys allow for direct, structured feedback from a representative sample of the population, which is essential for tailoring campaign strategies effectively. Therefore, while observational studies could complement survey data, they would not be sufficient on their own to fully achieve the purpose of understanding voter priorities and preferences in detail.
     ```
 
 ## Why am I doing this assignment?
