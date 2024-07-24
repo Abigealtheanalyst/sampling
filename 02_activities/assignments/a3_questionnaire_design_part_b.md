@@ -30,14 +30,14 @@ Sampling Strategy: Stratified random sampling to ensure representation from all 
 
 Here's my pevious survey: [Here](https://github.com/Abigealtheanalyst/sampling/blob/e01aa04daf2a70966a33e4f8a140f6240b7d3c81/02_activities/assignments/a2_questionnaire_design_part_a.md)
 
-Based on the class content, I would like to make a chnage to my survey.
+Based on the class content, I would not like to make a change to my survey. My previous survey was goo
 
     ```
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
-    While an observational study could provide valuable insights into voter behavior and priorities, it would likely not be as precise or comprehensive as a well-designed survey. Surveys allow for direct, structured feedback from a representative sample of the population, which is essential for tailoring campaign strategies effectively. Therefore, while observational studies could complement survey data, they would not be sufficient on their own to fully achieve the purpose of understanding voter priorities and preferences in detail.
+While an observational study could provide valuable insights into voter behavior and priorities, it would likely not be as precise or comprehensive as a well-designed survey. Surveys allow for direct, structured feedback from a representative sample of the population, which is essential for tailoring campaign strategies effectively. Therefore, while observational studies could complement survey data, they would not be sufficient on their own to fully achieve the purpose of understanding voter priorities and preferences in detail.
     ```
 
 ## Why am I doing this assignment?
